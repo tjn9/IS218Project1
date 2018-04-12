@@ -3,6 +3,7 @@
 <head>
 	<title>Sign-up Page </title>
 	<style>
+	h1 {background-color: mediumseagreen; border: 3px; display: inline-block;}
 	body {font-family: Arial, sans-serif; background-color: #007cdc; color: #ffffff;}
 	form {border: 3px solid #f1f1f1;}
 	input[type="text"] {
